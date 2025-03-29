@@ -49,18 +49,16 @@ Welcome to ZoraCam! Please read the following terms carefully.
 
 5.1 Basic services are provided free of charge.
 
-5.2 Paid Services:
-- Monthly subscription (auto-renewing)
-- Annual subscription (auto-renewing)
-- Lifetime purchase (one-time payment)
+5.2 Paid Services: This app offers the following payment options:
+- Monthly Subscription: Charged monthly with automatic renewal
+- Annual Subscription: Charged yearly with automatic renewal
+- One-time Purchase: Single payment to permanently unlock all filters and premium features
 
 5.3 Subscription Rules:
-- Payment charged via iTunes account
-- Auto-renewal 24 hours before expiration
-- We will notify you via in-app message at least 3 days before renewal
-- Manage/cancel subscriptions via iTunes/Apple ID settings
-- Cancelled subscriptions remain active until current period ends
-- No refunds for unused periods
+- Payment will be charged to your iTunes account upon purchase confirmation
+- Subscriptions automatically renew 24 hours before the current period ends
+- You will receive an in-app notification at least 3 days prior to automatic renewal
+- Manage or cancel subscriptions via iTunes/Apple ID settings
 
 5.4 Refund Policy:
 - Refund requests must go through App Store
