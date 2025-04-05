@@ -29,9 +29,9 @@
         .container {
             text-align: center;
             padding: 20px;
-            background-color: rgba(255, 255, 255, 0.9);
+            background-color: transparent;
             border-radius: 15px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            box-shadow: none;
             margin: 20px;
             max-width: 90%;
         }
@@ -44,12 +44,14 @@
         }
 
         .email {
-            color: #333;
+            color: white;
             font-size: 18px;
             margin-top: 15px;
             text-decoration: none;
             display: inline-block;
             padding: 10px;
+            /* 添加文字阴影提高可读性 */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
 
         .email:hover {
