@@ -2,9 +2,9 @@
 
 **Last Updated**: March 17, 2025  
 **Effective Date**: March 17, 2025  
-**App Name**: `Zorya`
+**App Name**: `zoracam`
 
-Thank you for using Zorya Camera. We take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal information.
+Thank you for using zoracam. We take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal information.
 
 ## 1. Information Collection and Use
 ### 1.1 Required Permissions
@@ -16,7 +16,7 @@ Thank you for using Zorya Camera. We take your privacy seriously. This Privacy P
 - App Usage Data: Including usage frequency, feature usage, and crash reports for app optimization. Collected anonymously (cannot be linked to personal identity).
 
 ### 1.3 Information We Don't Collect
-- **Zorya Camera has no user registration system**, so we don't store any personal user information.
+- **zoracam has no user registration system**, so we don't store any personal user information.
 - **We don't upload your photos or videos**.
 - **We don't analyze or collect facial data**.
 - **We don't collect your location information**.
@@ -53,4 +53,4 @@ According to Personal Information Protection Laws, you have the right to:
 
 ## 5. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: ZoryaCamera@hotmail.com
+- Email: zoracam@hotmail.com
