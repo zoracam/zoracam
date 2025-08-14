@@ -34,6 +34,16 @@ Thank you for using Zorya Camera. We take your privacy seriously. This Privacy P
 - **Security Measures**:
   - Sandbox mechanism and encryption technology for data protection.
   - Memory cleared immediately after processing, **no copies retained**.
+ 
+## 4. Third-Party Services
+### Tencent Bugly Crash Reporting Service
+- **Service Provider**: Tencent Cloud Computing (Beijing) Co., Ltd.
+- **Purpose**: Application crash monitoring and performance analysis
+- **Information Collected**:
+- Device information (device model, operating system version)
+- Application crash logs and stack trace information
+- Application version information
+- Anonymous device identifiers
 
 ## 4. Your Rights
 According to Personal Information Protection Laws, you have the right to:
