@@ -44,6 +44,9 @@ Thank you for using zoracam. We take your privacy seriously. This Privacy Policy
 - Application crash logs and stack trace information
 - Application version information
 - Anonymous device identifiers
+- **Data Processing**: Data will be transmitted to Tencent Bugly servers for analysis and processing
+- **Privacy Policy**: https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
+- **Data Security**: Encrypted transmission is used, and no personal sensitive information is collected
 
 ## 4. Your Rights
 According to Personal Information Protection Laws, you have the right to:
