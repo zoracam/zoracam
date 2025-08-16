@@ -1,12 +1,12 @@
-# ZoraCam Terms of Service
+# zoracam Terms of Service
 
-Welcome to ZoraCam! Please read the following terms carefully.
+Welcome to zoracam! Please read the following terms carefully.
 
 ## 1. General Provisions
 
-1.1 These Terms of Service constitute an agreement between you and ZoraCam ("this App") regarding the use of our services.
+1.1 These Terms of Service constitute an agreement between you and zoracam ("this App") regarding the use of our services.
 
-1.2 ZoraCam is a professional mobile photography application providing photo capture and management services.
+1.2 zoracam is a professional mobile photography application providing photo capture and management services.
 
 1.3 By using this App, you acknowledge that you have read, understood, and agreed to all terms herein.
 
@@ -36,7 +36,7 @@ Welcome to ZoraCam! Please read the following terms carefully.
 
 ## 4. Intellectual Property
 
-4.1 All intellectual property rights belong to ZoraCam.
+4.1 All intellectual property rights belong to zoracam.
 
 4.2 Users retain copyright of their created content.
 
@@ -124,6 +124,6 @@ Welcome to ZoraCam! Please read the following terms carefully.
 
 For questions:
 - In-app feedback
-- Email: ZoraCam@hotmail.com
+- Email: zoracam@hotmail.com
 
 Last Updated: February 2025
