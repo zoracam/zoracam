@@ -1,5 +1,6 @@
 {
 "minimumVersion": "1.9.0",
 "latestVersion": "1.9.0",
-"forceUpdate": false
+"forceUpdate": false,
+"changeLog": "版本更新内容：\n• 全面优化了用户界面\n• 支持自定义滤镜排序B\n• bug修复C"
 }
