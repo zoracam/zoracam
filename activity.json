@@ -12,7 +12,7 @@
           "discountPercentage": 29,
           "isPromotional": true,
           "validFrom": "2024-01-01T00:00:00Z",
-          "validUntil": "2024-02-29T23:59:59Z"
+          "validUntil": "2026-02-29T23:59:59Z"
         },
         {
           "productKey": "monthly_2024_v1",
@@ -37,7 +37,7 @@
           "discountPercentage": 33,
           "isPromotional": true,
           "validFrom": "2024-01-01T00:00:00Z",
-          "validUntil": "2024-03-31T23:59:59Z"
+          "validUntil": "2026-03-31T23:59:59Z"
         },
         {
           "productKey": "yearly_2024_v1",
