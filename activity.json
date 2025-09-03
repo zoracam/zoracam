@@ -53,7 +53,7 @@
     },
     {
       "type": "lifetime",
-      "enabled": true,
+      "enabled": false,
       "prices": [
         {
           "productKey": "lifetime_promo_v1",
@@ -79,7 +79,7 @@
   ],
   "promotion": {
     "enabled": true,
-    "title": "🎉初见有礼，首发限时促销🎉",
+    "title": "🎉初见有礼，首发促销🎉",
     "subtitle": "限时优惠，最高省75%",
     "iconUrl": "",
     "validUntil": "2025-10-08 10:00:00"
