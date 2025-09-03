@@ -12,7 +12,7 @@
           "discountPercentage": 75,
           "isPromotional": true,
           "validFrom": "2025-05-01 00:00:00",
-          "validUntil": "2024-10-08 10:00:00"
+          "validUntil": "2025-10-08 10:00:00"
         },
         {
           "productKey": "monthly_v1",
@@ -37,7 +37,7 @@
           "discountPercentage": 26,
           "isPromotional": true,
           "validFrom": "2025-05-01 00:00:00",
-          "validUntil": "2024-10-08 10:00:00"
+          "validUntil": "2025-10-08 10:00:00"
         },
         {
           "productKey": "yearly_v1",
@@ -62,7 +62,7 @@
           "discountPercentage": 29,
           "isPromotional": true,
           "validFrom": "2025-05-01 00:00:00",
-          "validUntil": "2024-10-08 10:00:00"
+          "validUntil": "2025-10-08 10:00:00"
         },
         {
           "productKey": "lifetime_v1",
