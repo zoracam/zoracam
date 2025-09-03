@@ -1,11 +1,95 @@
 {
-  "version": 1,
-  "activePurchaseOptions": ["monthly", "yearly", "lifetime"],
-  "promotion": {
-    "enabled": true,
-    "title": "限时优惠",
-    "subtitle": "一次性解锁全功能，享受永久专业版",
-    "iconUrl": "https://example.com/promo-icon.png",
-    "validUntil": "2025-12-31T23:59:59Z"
+  "version": "1.0",
+  "lastUpdated": "2024-01-15T10:00:00Z",
+  "purchaseOptions": [
+    {
+      "type": "monthly",
+      "enabled": true,
+      "prices": [
+        {
+          "productId": "com.lekai.zoracam.monthly",
+          "displayPrice": "$4.99",
+          "originalPrice": "$6.99",
+          "discountPercentage": 29,
+          "isPromotion": true,
+          "validFrom": "2024-01-01T00:00:00Z",
+          "validUntil": "2024-02-29T23:59:59Z"
+        },
+        {
+          "productId": "com.lekai.zoracam.monthly",
+          "displayPrice": "$6.99",
+          "originalPrice": "$6.99",
+          "discountPercentage": 0,
+          "isPromotion": false,
+          "validFrom": "2024-01-01T00:00:00Z",
+          "validUntil": "2024-12-31T23:59:59Z"
+        }
+      ],
+      "defaultPriceIndex": 1
+    },
+    {
+      "type": "yearly",
+      "enabled": true,
+      "prices": [
+        {
+          "productId": "com.lekai.zoracam.yearly",
+          "displayPrice": "$29.99",
+          "originalPrice": "$49.99",
+          "discountPercentage": 40,
+          "isPromotion": true,
+          "validFrom": "2024-01-01T00:00:00Z",
+          "validUntil": "2024-02-29T23:59:59Z"
+        },
+        {
+          "productId": "com.lekai.zoracam.yearly",
+          "displayPrice": "$49.99",
+          "originalPrice": "$49.99",
+          "discountPercentage": 0,
+          "isPromotion": false,
+          "validFrom": "2024-01-01T00:00:00Z",
+          "validUntil": "2024-12-31T23:59:59Z"
+        }
+      ],
+      "defaultPriceIndex": 1
+    },
+    {
+      "type": "lifetime",
+      "enabled": true,
+      "prices": [
+        {
+          "productId": "com.lekai.zoracam.lifetime",
+          "displayPrice": "$99.99",
+          "originalPrice": "$149.99",
+          "discountPercentage": 33,
+          "isPromotion": true,
+          "validFrom": "2024-01-01T00:00:00Z",
+          "validUntil": "2024-02-29T23:59:59Z"
+        },
+        {
+          "productId": "com.lekai.zoracam.lifetime",
+          "displayPrice": "$149.99",
+          "originalPrice": "$149.99",
+          "discountPercentage": 0,
+          "isPromotion": false,
+          "validFrom": "2024-01-01T00:00:00Z",
+          "validUntil": "2024-12-31T23:59:59Z"
+        }
+      ],
+      "defaultPriceIndex": 1
+    }
+  ],
+  "metadata": {
+    "description": "Camera App 购买选项配置文件",
+    "notes": [
+      "此配置文件用于动态控制应用内购买的价格和促销信息",
+      "可以通过 GitHub Pages 托管此文件，实现远程配置",
+      "促销价格会自动根据有效期显示或隐藏",
+      "每个购买选项可以配置多个价格，系统会自动选择最优价格显示"
+    ],
+    "usage": {
+      "github_pages_url": "https://your-username.github.io/camera-config/config.json",
+      "local_testing": "将此文件放在应用 bundle 中用于本地测试",
+      "update_frequency": "建议每次促销活动前更新配置文件"
+    }
   }
 }
