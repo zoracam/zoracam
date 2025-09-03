@@ -79,7 +79,7 @@
   ],
   "promotion": {
     "enabled": true,
-    "title": "🎉初见有礼，首发限时抢购🎉",
+    "title": "🎉初见有礼，首发限时促销🎉",
     "subtitle": "限时优惠，最高省75%",
     "iconUrl": "https://example.com/promo-icon.png",
     "validUntil": "2025-10-07T23:59:59Z"
