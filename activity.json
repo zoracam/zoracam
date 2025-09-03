@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "activePurchaseOptions": ["monthly", "yearly", "lifetime"],
+  "promotion": {
+    "enabled": true,
+    "title": "限时优惠",
+    "subtitle": "一次性解锁全功能，享受永久专业版",
+    "iconUrl": "https://example.com/promo-icon.png",
+    "validUntil": "2025-12-31T23:59:59Z"
+  }
+}
