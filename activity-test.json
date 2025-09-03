@@ -1,1 +1,87 @@
-
+{
+  "version": 1,
+  "purchaseOptions": [
+    {
+      "type": "monthly",
+      "enabled": true,
+      "prices": [
+        {
+          "productKey": "monthly_promo_v1",
+          "displayPrice": "¥3",
+          "originalPrice": "¥12",
+          "discountPercentage": 75,
+          "isPromotional": true,
+          "validFrom": "2025-05-01 00:00:00",
+          "validUntil": "2025-10-08 10:00:00"
+        },
+        {
+          "productKey": "monthly_v1",
+          "displayPrice": "¥12",
+          "originalPrice": null,
+          "discountPercentage": null,
+          "isPromotional": false,
+          "validFrom": null,
+          "validUntil": null
+        }
+      ],
+      "defaultPriceIndex": 0
+    },
+    {
+      "type": "yearly",
+      "enabled": true,
+      "prices": [
+        {
+          "productKey": "yearly_promo_v1",
+          "displayPrice": "¥​28",
+          "originalPrice": "¥​48",
+          "discountPercentage": 26,
+          "isPromotional": true,
+          "validFrom": "2025-05-01 00:00:00",
+          "validUntil": "2025-10-08 10:00:00"
+        },
+        {
+          "productKey": "yearly_v1",
+          "displayPrice": "¥48",
+          "originalPrice": null,
+          "discountPercentage": null,
+          "isPromotional": false,
+          "validFrom": null,
+          "validUntil": null
+        }
+      ],
+      "defaultPriceIndex": 0
+    },
+    {
+      "type": "lifetime",
+      "enabled": true,
+      "prices": [
+        {
+          "productKey": "lifetime_promo_v1",
+          "displayPrice": "¥48",
+          "originalPrice": "¥68",
+          "discountPercentage": 29,
+          "isPromotional": true,
+          "validFrom": "2025-05-01 00:00:00",
+          "validUntil": "2025-10-08 10:00:00"
+        },
+        {
+          "productKey": "lifetime_v1",
+          "displayPrice": "¥68",
+          "originalPrice": null,
+          "discountPercentage": null,
+          "isPromotional": false,
+          "validFrom": null,
+          "validUntil": null
+        }
+      ],
+      "defaultPriceIndex": 0
+    }
+  ],
+  "promotion": {
+    "enabled": true,
+    "title": "🎉初见有礼，首发促销🎉",
+    "subtitle": "限时优惠，最高省75%",
+    "iconUrl": "",
+    "validUntil": "2025-10-08 10:00:00"
+  }
+}
