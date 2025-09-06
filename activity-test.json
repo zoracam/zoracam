@@ -3,7 +3,7 @@
   "promotion": {
     "enabled": true,
     "title": "🎉 限时特惠",
-    "subtitle": "限时永久买断开启",
+    "subtitle": "终身版限时优惠，立省200元",
     "iconUrl": "",
     "validUntil": "2025-10-07 23:59:00",
     "showPromotionBanner": true,
