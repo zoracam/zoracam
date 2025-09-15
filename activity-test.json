@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "products": {
     "monthly": {
       "visible": true,
@@ -12,7 +12,7 @@
       "validUntil": "2025-09-15 13:45:00"
     },
     "lifetime": {
-      "visible": false,
+      "visible": true,
       "usePromotionPrice": false,
       "validUntil": ""
     }
