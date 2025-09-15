@@ -1,13 +1,31 @@
 {
   "version": 1,
-  "promotion": {
-    "enabled": false,
-    "title": "",
-    "subtitle": "",
-    "iconUrl": "",
-    "validUntil": "",
+  "products": {
+    "monthly": {
+      "visible": true,
+      "usePromotionPrice": false,
+      "validUntil": ""
+    },
+    "yearly": {
+      "visible": true,
+      "usePromotionPrice": false,
+      "validUntil": ""
+    },
+    "lifetime": {
+      "visible": true,
+      "usePromotionPrice": false,
+      "validUntil": ""
+    }
+  },
+  "ui": {
     "showPromotionBanner": false,
     "showPromotionTags": false,
-    "highlightRecommended": true
+    "highlightRecommended": true,
+    "bannerConfig": {
+      "title": "",
+      "subtitle": "",
+      "iconUrl": "",
+      "validUntil": ""
+    }
   }
 }
