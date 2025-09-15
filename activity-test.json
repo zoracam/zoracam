@@ -4,12 +4,12 @@
     "monthly": {
       "visible": true,
       "usePromotionPrice": true,
-      "validUntil": "2025-09-15 12:45:00"
+      "validUntil": "2025-09-15 13:45:00"
     },
     "yearly": {
       "visible": true,
       "usePromotionPrice": true,
-      "validUntil": "2025-09-15 12:45:00"
+      "validUntil": "2025-09-15 13:45:00"
     },
     "lifetime": {
       "visible": false,
