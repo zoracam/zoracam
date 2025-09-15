@@ -19,7 +19,7 @@
   },
   "ui": {
     "showPromotionBanner": false,
-    "showRecommendedTags": false,
+    "showRecommendedTags": true,
     "bannerConfig": {
       "title": "🎉首发有礼🎉",
       "subtitle": "限时优惠，即刻开启!",
