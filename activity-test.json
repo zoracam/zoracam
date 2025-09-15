@@ -3,16 +3,16 @@
   "products": {
     "monthly": {
       "visible": true,
-      "usePromotionPrice": false,
-      "validUntil": ""
+      "usePromotionPrice": true,
+      "validUntil": "2025-09-15 12:15:00"
     },
     "yearly": {
       "visible": true,
-      "usePromotionPrice": false,
-      "validUntil": ""
+      "usePromotionPrice": true,
+      "validUntil": "2025-09-15 12:15:00"
     },
     "lifetime": {
-      "visible": true,
+      "visible": false,
       "usePromotionPrice": false,
       "validUntil": ""
     }
