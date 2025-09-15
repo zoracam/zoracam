@@ -3,22 +3,22 @@
   "products": {
     "monthly": {
       "visible": true,
-      "usePromotionPrice": false,
+      "usePromotionPrice": true,
       "validUntil": "2025-10-08 10:00:00"
     },
     "yearly": {
       "visible": true,
-      "usePromotionPrice": false,
+      "usePromotionPrice": true,
       "validUntil": "2025-10-08 10:00:00"
     },
     "lifetime": {
-      "visible": false,
-      "usePromotionPrice": false,
+      "visible": true,
+      "usePromotionPrice": true,
       "validUntil": "2025-10-08 10:00:00"
     }
   },
   "ui": {
-    "showPromotionBanner": false,
+    "showPromotionBanner": true,
     "showRecommendedTags": true,
     "bannerConfig": {
       "title": "🎉首发有礼🎉",
