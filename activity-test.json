@@ -3,23 +3,23 @@
   "products": {
     "monthly": {
       "visible": true,
-      "usePromotionPrice": true,
+      "usePromotionPrice": false,
       "validUntil": "2025-10-08 10:00:00"
     },
     "yearly": {
       "visible": true,
-      "usePromotionPrice": true,
+      "usePromotionPrice": false,
       "validUntil": "2025-10-08 10:00:00"
     },
     "lifetime": {
       "visible": true,
-      "usePromotionPrice": true,
+      "usePromotionPrice": false,
       "validUntil": "2025-10-08 10:00:00"
     }
   },
   "ui": {
-    "showPromotionBanner": true,
-    "showRecommendedTags": true,
+    "showPromotionBanner": false,
+    "showRecommendedTags": false,
     "bannerConfig": {
       "title": "🎉首发有礼🎉",
       "subtitle": "限时优惠，即刻开启!",
