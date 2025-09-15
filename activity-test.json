@@ -19,8 +19,7 @@
   },
   "ui": {
     "showPromotionBanner": false,
-    "showPromotionTags": false,
-    "highlightRecommended": true,
+    "showRecommendedTags": true,
     "bannerConfig": {
       "title": "",
       "subtitle": "",
