@@ -1,13 +1,13 @@
 {
   "version": 1,
   "promotion": {
-    "enabled": true,
-    "title": "🎉 限时特惠",
-    "subtitle": "终身版限时优惠，立省200元",
+    "enabled": false,
+    "title": "",
+    "subtitle": "",
     "iconUrl": "",
-    "validUntil": "2025-10-07 23:59:00",
-    "showPromotionBanner": true,
-    "showPromotionTags": true,
+    "validUntil": "",
+    "showPromotionBanner": false,
+    "showPromotionTags": false,
     "highlightRecommended": true
   }
 }
