@@ -1,6 +1,6 @@
 {
   "minimumVersion": "1.9.0",
-  "latestVersion": "2.0.0", 
+  "latestVersion": "2.0.1", 
   "forceUpdate": false,
-  "changeLog": "版本更新内容：\n• UI体验优化\n• 支持RAW格式 & 照片编辑\n• 性能优化"
+  "changeLog": "版本更新内容：\n• 照片编辑支持色温调整\n• 增加手动对焦模式\n• 修复照片编辑偏色issue"
 }
