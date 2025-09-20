@@ -2,7 +2,7 @@
   "minimumVersion": "1.9.0",
   "latestVersion": "2.0.2",
   "forceUpdate": false,
-  "changeLog": "New version updates:\n• UI experience optimization\n• RAW format support & photo editing\n• Performance optimization & bugfix",
+  "changeLog": "New version updates:\n• bugfix",
   "changeLogMultiLang": {
     "en": "New version updates:\n• bugfix",
     "zh-CN": "新版本更新内容：\n• 多语言支持\n• bugfix",
