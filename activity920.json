@@ -1,1 +1,39 @@
-
+{
+  "version": 11,
+  "products": {
+    "monthly": {
+      "visible": true,
+      "usePromotionPrice": true,
+      "validUntil": "2025-10-08 10:00:00"
+    },
+    "yearly": {
+      "visible": true,
+      "usePromotionPrice": true,
+      "validUntil": "2025-10-08 10:00:00"
+    },
+    "lifetime": {
+      "visible": true,
+      "usePromotionPrice": true,
+      "validUntil": "2025-10-08 10:00:00"
+    }
+  },
+  "ui": {
+    "showPromotionBanner": true,
+    "showRecommendedTags": true,
+    "bannerConfig": {
+      "title": {
+        "zh-Hans": "🎉首发有礼🎉",
+        "zh-Hant": "🎉首發有禮🎉",
+        "en": "🎉 Launch Special 🎉",
+        "ja": "🎉 ローンチスペシャル 🎉"
+      },
+      "subtitle": {
+        "zh-Hans": "订阅用户免费试用7天，之后按优惠价扣费",
+        "zh-Hant": "訂閱用戶免費試用7天，之後按優惠價扣費",
+        "en": "7-day free trial for subscribers, then charged at promotional price",
+        "ja": "購読者は7日間無料トライアル、その後プロモーション価格で課金"
+      },
+      "validUntil": "2025-10-08 10:00:00"
+    }
+  }
+}
