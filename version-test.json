@@ -1,6 +1,12 @@
 {
   "minimumVersion": "1.9.0",
-  "latestVersion": "2.0.0", 
+  "latestVersion": "2.0.0",
   "forceUpdate": false,
-  "changeLog": "版本更新内容：\n• UI体验优化\n• 支持RAW格式 & 照片编辑\n• 性能优化 & bugfix"
+  "changeLog": "New version updates:\n• UI experience optimization\n• RAW format support & photo editing\n• Performance optimization & bugfix",
+  "changeLogMultiLang": {
+    "en": "New version updates:\n• UI experience optimization\n• RAW format support & photo editing\n• Performance optimization & bugfix",
+    "zh-CN": "新版本更新内容：\n• UI体验优化\n• 支持RAW格式 & 照片编辑\n• 性能优化 & bugfix",
+    "zh-TW": "新版本更新內容：\n• UI體驗優化\n• 支援RAW格式 & 照片編輯\n• 效能優化 & bugfix",
+    "ja": "新バージョンの更新内容：\n• UI体験の最適化\n• RAWフォーマット対応 & 写真編集\n• パフォーマンス最適化 & バグ修正"
+  }
 }
