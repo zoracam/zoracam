@@ -1,6 +1,12 @@
 {
   "minimumVersion": "1.9.0",
-  "latestVersion": "2.0.1", 
+  "latestVersion": "2.0.2",
   "forceUpdate": false,
-  "changeLog": "版本更新内容：\n• 照片编辑支持色温调整\n• 增加手动对焦模式\n• 修复照片编辑偏色issue"
+  "changeLog": "新版本更新内容：\n• 多语言支持\n• 调整部分滤镜显示名称\n• 修复分享照片bug\n• 修复拍摄raw照片闪退等其他问题",
+  "changeLogMultiLang": {
+    "en": "New Version Update:\n• Adjusted display names for some filters\n• Fixed a bug with sharing photos\n• Fixed other issues including crashes when shooting RAW photos",
+    "zh-CN": "新版本更新内容：\n• 多语言支持\n• 调整部分滤镜显示名称\n• 修复分享照片bug\n• 修复拍摄raw照片闪退等其他问题",
+    "zh-TW": "新版本更新內容：\n• 調整部分濾鏡顯示名稱\n• 修復分享照片 bug\n• 修復拍攝 RAW 照片閃退等其他問題",
+    "ja": "新バージョンの更新内容：\n• 一部フィルターの表示名を調整\n• 写真共有のバグを修正\n• RAW写真撮影時のクラッシュなど、その他の問題を修正"
+  }
 }
