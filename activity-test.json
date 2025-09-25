@@ -44,7 +44,7 @@
         "title": "春节特惠活动",
         "description": "参与春节活动，获得7天免费会员权益",
         "buttonText": "查看详情",
-        "supportedLanguages": ["zh-Hans", "zh-Hant"],
+        "supportedLanguages": ["zh-Hans"],
         "validUntil": "2025-11-11 23:59:59",
         "priority": 2
       },
