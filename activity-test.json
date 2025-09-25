@@ -45,7 +45,7 @@
         "description": "参与春节活动，获得7天免费会员权益",
         "buttonText": "查看详情",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2024-02-18 23:59:59",
+        "validUntil": "2025-11-11 23:59:59",
         "priority": 2
       },
       {
@@ -54,7 +54,7 @@
         "description": "Join our New Year event to get 7 days free membership",
         "buttonText": "Learn More",
         "supportedLanguages": ["en"],
-        "validUntil": "2024-01-31 23:59:59",
+        "validUntil": "2025-11-11 23:59:59",
         "priority": 1
       },
       {
@@ -63,7 +63,7 @@
         "description": "冬のイベントに参加して7日間の無料メンバーシップを獲得",
         "buttonText": "詳細を見る",
         "supportedLanguages": ["ja"],
-        "validUntil": "2024-03-01 23:59:59",
+        "validUntil": "2025-11-11 23:59:59",
         "priority": 3
       }
     ]
