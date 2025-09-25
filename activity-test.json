@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "products": {
     "monthly": {
       "visible": true,
@@ -40,31 +40,49 @@
     "showInSettings": true,
     "activities": [
       {
-        "id": "spring_festival_2024",
-        "title": "春节特惠活动",
-        "description": "参与春节活动，获得7天免费会员权益",
-        "buttonText": "查看详情",
-        "supportedLanguages": ["zh-Hans"],
-        "validUntil": "2025-11-11 23:59:59",
-        "priority": 2
-      },
-      {
-        "id": "new_year_promotion",
-        "title": "New Year Promotion",
-        "description": "Join our New Year event to get 7 days free membership",
-        "buttonText": "Learn More",
-        "supportedLanguages": ["en"],
-        "validUntil": "2025-11-11 23:59:59",
+        "id": "benefit_1",
+        "title": "🎁福利一：送一个月会员",
+        "description": "小红书上关注开发者账号：@乐恺；给置顶笔记赏个赞",
+        "buttonText": "参与活动",
+        "supportedLanguages": ["zh-Hans", "zh-Hant"],
+        "validUntil": "2025-12-31 23:59:59",
         "priority": 1
       },
       {
-        "id": "winter_special",
-        "title": "冬季特別キャンペーン",
-        "description": "冬のイベントに参加して7日間の無料メンバーシップを獲得",
-        "buttonText": "詳細を見る",
-        "supportedLanguages": ["ja"],
-        "validUntil": "2025-11-11 23:59:59",
+        "id": "benefit_2",
+        "title": "🎁福利二：博主大佬福利",
+        "description": "发笔记前请博主大佬联系@zoracam；千粉以上博主发zoracam相关笔记送年度会员（带#zoracam标签）；3k粉以上up发zoracam相关笔记送终身会员（带#zoracam标签）",
+        "buttonText": "了解详情",
+        "supportedLanguages": ["zh-Hans", "zh-Hant"],
+        "validUntil": "2025-12-31 23:59:59",
+        "priority": 2
+      },
+      {
+        "id": "benefit_3",
+        "title": "🎁福利三：滤镜样图征集",
+        "description": "小红书平台使用zoracam拍摄/导入的照片发布笔记，带上#zoracam标签，并@zoracam。有机会被选为app样片，展示在app内，同时会按您的要求展示社交id和联系方式。1张入选送年度会员码一枚，累计3张时可获得终身会员码一枚。",
+        "buttonText": "参与征集",
+        "supportedLanguages": ["zh-Hans", "zh-Hant"],
+        "validUntil": "2025-12-31 23:59:59",
         "priority": 3
+      },
+      {
+        "id": "benefit_4",
+        "title": "🎁福利四：礼赞",
+        "description": "使用zoracam拍摄或导入渲染的照片发布笔记，带上#zoracam标签，并@zoracam，破50赞后，赠送年度会员码一枚；（每个id限领一次）",
+        "buttonText": "开始参与",
+        "supportedLanguages": ["zh-Hans", "zh-Hant"],
+        "validUntil": "2025-12-31 23:59:59",
+        "priority": 4
+      },
+      {
+        "id": "benefit_5",
+        "title": "🎁福利五：阳光普照",
+        "description": "月订阅、年订阅目前都包含7天免费试用。购买页面点击月订阅→完成购买（此时不会产生扣费）→进入iphone"设置"→点击你的账号>订阅>取消zoracam订阅。大功告成，你可以继续使用7天免费试用期了！",
+        "buttonText": "免费试用",
+        "supportedLanguages": ["zh-Hans", "zh-Hant"],
+        "validUntil": "2025-12-31 23:59:59",
+        "priority": 5
       }
     ]
   }
