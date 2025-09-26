@@ -37,7 +37,7 @@
     }
   },
   "freeMembership": {
-    "showInSettings": true,
+    "showInSettings": false,
     "activities": [
       {
         "id": "benefit_1",
