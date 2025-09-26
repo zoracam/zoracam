@@ -51,7 +51,7 @@
       {
         "id": "benefit_2",
         "title": "🎁活动二：博主福利",
-        "description": "‧ 发笔记前请博主大佬联系@zoracam\n‧ 一千粉丝以上博主发zoracam相关笔记（带#zoracam标签），送年度会员\n‧ 三千粉丝以上博主发zoracam相关笔记送终身会员（带#zoracam标签）",
+        "description": "‧ 发笔记前请博主大佬联系@zoracam\n‧ 小红书平台，一千粉丝以上博主发zoracam相关笔记（带#zoracam标签），送年度会员\n‧ 小红书平台，三千粉丝以上博主发zoracam相关笔记（带#zoracam标签），送终身会员",
         "buttonText": "了解详情",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
         "validUntil": "2025-12-31 23:59:59",
@@ -60,7 +60,7 @@
       {
         "id": "benefit_3",
         "title": "🎁活动三：滤镜样图征集",
-        "description": "‧ 小红书平台使用zoracam拍摄/导入的照片发布笔记，带上#zoracam标签，正文@zoracam。\n‧ 有几率被选为app样片并展示在app内，同时展示创作者社交id和联系方式。1张入选送年度会员码一枚，累计3张时可获得终身会员码一枚。",
+        "description": "‧ 小红书平台，使用zoracam拍摄/导入的照片发布笔记，带上#zoracam标签，正文@zoracam。\n‧ 有几率被选为app样片并展示在app内，同时展示创作者社交id和联系方式。1张入选送年度会员，累计3张可获得终身会员",
         "buttonText": "参与征集",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
         "validUntil": "2025-12-31 23:59:59",
@@ -69,7 +69,7 @@
       {
         "id": "benefit_4",
         "title": "🎁活动四：礼赞",
-        "description": "使用zoracam拍摄或导入渲染的照片发布笔记，带上#zoracam标签，正文@zoracam。破50赞后，赠送年度会员码一枚；",
+        "description": "小红书平台，使用zoracam拍摄或导入渲染的照片发布笔记，带上#zoracam标签，正文@zoracam。破50赞后，赠送年度会员码一枚",
         "buttonText": "开始参与",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
         "validUntil": "2025-12-31 23:59:59",
