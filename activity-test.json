@@ -41,7 +41,7 @@
     "activities": [
       {
         "id": "benefit_1",
-        "title": "🎁活动一：一个月免费试用",
+        "title": "🎁活动一：首月免费试用",
         "description": "",
         "buttonText": "参与活动",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
