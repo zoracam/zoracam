@@ -42,11 +42,15 @@
       {
         "id": "benefit_1",
         "title": "🎁活动一：无门槛送月度会员",
-        "description": "‧ 小红书上关注开发者账号：@乐恺\n‧ 给置顶笔记赏个赞",
+        "description": "‧ 小红书关注开发者账号：@乐恺\n‧ 给置顶笔记点赞",
         "buttonText": "参与活动",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
         "validUntil": "2025-12-31 23:59:59",
-        "priority": 1
+        "priority": 1,
+        "participationMethod": "参与方式描述",
+        "claimMethod": "领取方式描述",
+        "distributionMethod": "发放方式描述",
+        "notes": "重要说明或注意事项"
       },
       {
         "id": "benefit_2",
