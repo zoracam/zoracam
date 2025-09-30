@@ -45,11 +45,11 @@
         "description": "‧ 小红书关注开发者账号：@乐恺\n‧ 给置顶笔记点赞",
         "buttonText": "参与活动",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2025-12-31 23:59:59",
+        "validUntil": "2025-10-08 10:00:00",
         "priority": 1,
-        "participationMethod": "参与方式描述",
-        "distributionMethod": "发放方式描述",
-        "notes": "重要说明或注意事项"
+        "participationMethod": "‧ 小红书关注开发者@乐恺(sheyingshilekai)\n‧ 置顶笔记点赞",
+        "distributionMethod": "‧ 私信@zoraluck(zoraluck)获取\n‧ 或提供您的小红书id发送邮件到zoracam@hotmail.com",
+        "notes": "@乐恺账号无法回复激活码、费用问题，如遇到消息未回复，请联系zoracam@hotmail.com处理"
       },
       {
         "id": "benefit_2",
