@@ -48,7 +48,6 @@
         "validUntil": "2025-12-31 23:59:59",
         "priority": 1,
         "participationMethod": "参与方式描述",
-        "claimMethod": "领取方式描述",
         "distributionMethod": "发放方式描述",
         "notes": "重要说明或注意事项"
       },
