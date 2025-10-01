@@ -49,7 +49,7 @@
         "priority": 1,
         "participationMethod": "‧ 小红书关注开发者@乐恺(sheyingshilekai)\n‧ 置顶笔记点赞",
         "distributionMethod": "‧ 私信@zoraluck(zoraluck)获取\n‧ 或提供您的小红书号(不要发错)发送邮件到zoracam@hotmail.com",
-        "notes": "‧ 2025.09.30当天发放的激活码已过期，2025.10.01私信补发\n‧ @乐恺私信已关，请联系@zoraluck(zoraluck），或发送邮件到zoracam@hotmail.com联系我们"
+        "notes": "‧ @乐恺私信已关，请联系@zoraluck(zoraluck），或发送邮件到zoracam@hotmail.com联系我们"
       },
       {
         "id": "benefit_2",
@@ -61,12 +61,12 @@
         "priority": 2,
         "participationMethod": "‧ 小红书发笔记，带上#zoracam标签，正文@zoracam(zoracam) 或 @乐恺(sheyingshilekai)，有几率被选为app样片",
         "distributionMethod": " @zoracam(zoracam) 或 @乐恺(sheyingshilekai)会主动联系您",
-        "notes": "‧ 1张入选送年度会员\n‧ 累计3张入选获终身会员"
+        "notes": "‧ 1张入选送年度会员\n‧ 累计3张入选获终身会员\n‧ 样图在app内展示时，会同时展示创作者信息\n‧ 样图会不定期更新，请大家踊跃创作~"
       },
       {
         "id": "benefit_3",
         "title": "🎁活动三：礼赞",
-        "description": "‧ 小红书发笔记，带上#zoracam标签，正文@zoracam 或 @乐恺",
+        "description": "",
         "buttonText": "参与活动",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
         "validUntil": "2025-12-31 23:59:59",
