@@ -1,12 +1,12 @@
 {
   "minimumVersion": "1.9.0",
-  "latestVersion": "2.1.0",
+  "latestVersion": "2.1.1",
   "forceUpdate": false,
-  "changeLog": "新版本更新内容：\n• 部分滤镜支持噪点自定义控制\n• 编辑图片支持iOS风格调色盘\n• 色温组件ui交互优化\n• bugfix、后置摄像头切换等其他问题",
+  "changeLog": "New Version Update Details:\n• Flashlight now supports brightness adjustment\n• Fixed a crash issue on iOS 26\n• Other bug fixes",
   "changeLogMultiLang": {
-    "en": "New version update content:\n• Some filters support custom noise control\n• Image editing supports iOS-style color palette\n• Color temperature component UI interaction optimization\n• Bugfix, rear camera switching and other issues",
-    "zh-CN": "新版本更新内容：\n• 增加免费领取会员活动说明",
-    "zh-TW": "新版本更新內容：\n• 部分濾鏡支援噪點自定義控制\n• 編輯圖片支援iOS風格調色盤\n• 色溫組件ui交互優化\n• bugfix、後置攝像頭切換等其他問題",
-    "ja": "新バージョン更新内容：\n• 一部のフィルターでノイズのカスタム制御をサポート\n• 画像編集でiOSスタイルのカラーパレットをサポート\n• 色温度コンポーネントのUI操作を最適化\n• バグ修正、リアカメラ切り替えなどその他の問題"
+    "en": "New Version Update Details:\n• Flashlight now supports brightness adjustment\n• Fixed a crash issue on iOS 26\n• Other bug fixes",
+    "zh-CN": "新版本更新内容：\n• 手电筒支持亮度调节\n• 修复iOS26上闪退的问题\n• 其他问题修复",
+    "zh-TW": "新版本更新內容：\n• 手電筒支援亮度調節\n• 修復iOS26上閃退的問題\n• 其他問題修復",
+    "ja": "新バージョンアップデート内容：\n• 懐中電灯の明るさ調節に対応\n• iOS26でのクラッシュ問題を修正\n• その他の不具合を修正"
   }
 }
