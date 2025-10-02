@@ -1,12 +1,12 @@
 {
   "minimumVersion": "1.9.0",
-  "latestVersion": "2.0.2",
+  "latestVersion": "2.1.1",
   "forceUpdate": false,
-  "changeLog": "New version updates:\n• bugfix",
+  "changeLog": "New Version Update Details:\n• Flashlight now supports brightness adjustment\n• Fixed a crash issue on iOS 26\n• Other bug fixes",
   "changeLogMultiLang": {
-    "en": "New Version Update:\n• Adjusted display names for some filters\n• Fixed a bug with sharing photos\n• Fixed other issues including crashes when shooting RAW photos",
-    "zh-CN": "新版本更新内容：\n• 多语言支持\n• 调整部分滤镜显示名称\n• 修复分享照片bug\n• 修复拍摄raw照片闪退等其他问题",
-    "zh-TW": "新版本更新內容：\n• 調整部分濾鏡顯示名稱\n• 修復分享照片 bug\n• 修復拍攝 RAW 照片閃退等其他問題",
-    "ja": "新バージョンの更新内容：\n• 一部フィルターの表示名を調整\n• 写真共有のバグを修正\n• RAW写真撮影時のクラッシュなど、その他の問題を修正"
+    "en": "New Version Update Details:\n• Flashlight now supports brightness adjustment\n• Fixed a crash issue on iOS 26\n• Other bug fixes",
+    "zh-CN": "新版本更新内容：\n• 手电筒支持亮度调节\n• 修复iOS26上闪退的问题\n• 其他问题修复",
+    "zh-TW": "新版本更新內容：\n• 手電筒支援亮度調節\n• 修復iOS26上閃退的問題\n• 其他問題修復",
+    "ja": "新バージョンアップデート内容：\n• 懐中電灯の明るさ調節に対応\n• iOS26でのクラッシュ問題を修正\n• その他の不具合を修正"
   }
 }
