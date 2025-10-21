@@ -1,20 +1,20 @@
 {
-  "version": 15,
+  "version": 16,
   "products": {
     "monthly": {
       "visible": true,
       "usePromotionPrice": true,
-      "validUntil": "2025-10-08 10:00:00"
+      "validUntil": "2025-12-15 10:00:00"
     },
     "yearly": {
       "visible": true,
       "usePromotionPrice": true,
-      "validUntil": "2025-10-08 10:00:00"
+      "validUntil": "2025-12-15 10:00:00"
     },
     "lifetime": {
       "visible": true,
-      "usePromotionPrice": true,
-      "validUntil": "2025-10-08 10:00:00"
+      "usePromotionPrice": false,
+      "validUntil": "2025-12-15 10:00:00"
     }
   },
   "ui": {
@@ -22,10 +22,10 @@
     "showRecommendedTags": true,
     "bannerConfig": {
       "title": {
-        "zh-Hans": "🎉首发有礼🎉",
-        "zh-Hant": "🎉首發有禮🎉",
-        "en": "🎉 Launch Special 🎉",
-        "ja": "🎉 ローンチスペシャル 🎉"
+        "zh-Hans": "🎉年度大促正式启动！🎉",
+        "zh-Hant": "🎉​​年度大促正式啟動！​​🎉",
+        "en": "🎉​​The Annual Mega Sale Is On!​​🎉",
+        "ja": "🎉年間最大のセール、開幕！​🎉"
       },
       "subtitle": {
         "zh-Hans": "订阅用户免费试用7天，之后按优惠价扣费",
@@ -33,7 +33,7 @@
         "en": "7-day free trial for subscribers, then charged at promotional price",
         "ja": "購読者は7日間無料トライアル、その後プロモーション価格で課金"
       },
-      "validUntil": "2025-10-08 10:00:00"
+      "validUntil": "2025-12-15 10:00:00"
     }
   },
   "freeMembership": {
@@ -41,42 +41,54 @@
     "activities": [
       {
         "id": "benefit_1",
-        "title": "🎁活动一：首月免费试用",
+        "title": "🎁活动一：G3珀氛围感滤镜免费赠送",
         "description": "",
         "buttonText": "参与活动",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2025-12-31 23:59:59",
+        "validUntil": "2025-12-15 10:00:00",
         "priority": 1,
-        "participationMethod": "‧ 小红书关注开发者@乐恺(sheyingshilekai)\n‧ 置顶笔记点赞",
-        "distributionMethod": "‧ 私信@zoraluck(zoraluck)获取\n‧ 或提供您的小红书号(不要发错)发送邮件到zoracam@hotmail.com",
-        "notes": "‧ @乐恺私信已关，请联系@zoraluck(zoraluck），或发送邮件到zoracam@hotmail.com联系我们"
+        "participationMethod": "‧ 发布笔记：使用zoracam拍照或后期，并在小红书/抖音发笔记分享使用体验。\n‧ 活动条件：添加标签#zoracam，并@官方账号或开发者账号",
+        "distributionMethod": "请您私信开发者账号(或官方账号)，我们会私信给您发送滤镜激活码",
+        "notes": "如遇私信未回复，可发送邮件到zoracam@hotmail.com，我们会统一处理。"
       },
       {
         "id": "benefit_2",
+        "title": "🎁活动二：首月免费试用",
+        "description": "",
+        "buttonText": "参与活动",
+        "supportedLanguages": ["zh-Hans", "zh-Hant"],
+        "validUntil": "2025-12-15 10:00:00",
+        "priority": 2,
+        "participationMethod": "‧ 小红书或抖音（任选其一即可），关注开发者账号或官方账号",
+        "distributionMethod": "请您私信开发者账号(或官方账号)，我们会私信给您发送激活码",
+        "notes": "如遇私信未回复，可发送邮件到zoracam@hotmail.com，我们会统一处理。"
+      },
+      {
+        "id": "benefit_3",
         "title": "🎁活动二：样图征集",
         "description": "",
         "buttonText": "参与活动",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2025-12-31 23:59:59",
-        "priority": 2,
-        "participationMethod": "‧ 小红书发笔记，带上#zoracam标签，正文@zoracam(zoracam) 或 @乐恺(sheyingshilekai)，有几率被选为app样片",
-        "distributionMethod": " @zoracam(zoracam) 或 @乐恺(sheyingshilekai)会主动联系您",
-        "notes": "‧ 1张入选送年度会员\n‧ 累计3张入选获终身会员\n‧ 样图在app内展示时，会同时展示创作者信息\n‧ 样图会不定期更新，请大家踊跃创作~"
+        "validUntil": "2025-12-15 10:00:00",
+        "priority": 3,
+        "participationMethod": "‧ 发布笔记：使用zoracam拍照或后期，并在小红书/抖音发笔记。\n‧ 活动条件：添加标签#zoracam，并@官方账号或开发者账号",
+        "distributionMethod": "被选中的照片，我们会主动联系您",
+        "notes": "‧ 1张入选送年度会员\n‧ 累计3张入选获终身会员\n‧ 样图在app内展示时，会同时展示创作者信息\n‧ 样图会不定期更新，期待大家踊跃投稿~"
       },
       {
-        "id": "benefit_3",
+        "id": "benefit_4",
         "title": "🎁活动三：礼赞",
         "description": "",
         "buttonText": "参与活动",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2025-12-31 23:59:59",
-        "priority": 3,
-        "participationMethod": "‧ 小红书发笔记，带上#zoracam标签，正文@zoracam 或 @乐恺，笔记达到50赞",
-        "distributionMethod": "‧ 小红书私信@zoraluck(zoraluck)获取\n‧ 或提供您的小红书号(不要发错)发送邮件到zoracam@hotmail.com",
+        "validUntil": "2025-12-15 10:10:10",
+        "priority": 4,
+        "participationMethod": "‧ 发布笔记：使用zoracam拍照或后期，并在小红书/抖音发笔记分享使用体验。\n‧ 活动条件：添加标签#zoracam，并@官方账号或开发者账号",
+        "distributionMethod": "请您私信开发者账号(或官方账号)，我们会私信给您发送滤镜激活码",
         "notes": "送年度会员"
       },
       {
-        "id": "benefit_4",
+        "id": "benefit_5",
         "title": "🎁活动四：阳光普照",
         "description": "月订阅、年订阅目前都包含7天免费试用.",
         "buttonText": "参与活动",
@@ -85,7 +97,7 @@
         "priority": 4,
         "participationMethod": "月订阅、年订阅包含7天免费试用",
         "distributionMethod": "订阅即得",
-        "notes": "购买页面点击月订阅→完成购买（此时不会产生扣费）→进入iphone'设置'→点击你的账号>订阅>取消zoracam订阅。大功告成，你可以继续使用7天免费试用期了！"
+        "notes": ""
       }
     ]
   }
