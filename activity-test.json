@@ -98,7 +98,7 @@
         "buttonText": "参与活动",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
         "validUntil": "2025-12-31 23:59:59",
-        "visible": true,
+        "visible": false,
         "priority": 4,
         "participationMethod": "月订阅、年订阅包含7天免费试用",
         "distributionMethod": "订阅即得",
