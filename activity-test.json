@@ -13,7 +13,7 @@
     },
     "lifetime": {
       "visible": true,
-      "usePromotionPrice": false,
+      "usePromotionPrice": true,
       "validUntil": "2025-12-15 10:00:00"
     }
   },
