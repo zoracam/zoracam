@@ -1,12 +1,12 @@
 {
   "minimumVersion": "1.9.0",
-  "latestVersion": "2.1.1",
+  "latestVersion": "2.2.0",
   "forceUpdate": false,
   "changeLog": "New Version Update Details:\n• Flashlight now supports brightness adjustment\n• Fixed a crash issue on iOS 26\n• Other bug fixes",
   "changeLogMultiLang": {
-    "en": "New Version Update Details:\n• Flashlight now supports brightness adjustment\n• Fixed a crash issue on iOS 26\n• Other bug fixes",
-    "zh-CN": "新版本更新内容：\n• 手电筒支持亮度调节\n• 修复iOS26上闪退的问题\n• 其他问题修复",
-    "zh-TW": "新版本更新內容：\n• 手電筒支援亮度調節\n• 修復iOS26上閃退的問題\n• 其他問題修復",
-    "ja": "新バージョンアップデート内容：\n• 懐中電灯の明るさ調節に対応\n• iOS26でのクラッシュ問題を修正\n• その他の不具合を修正"
+    "en": "New Version Updates:\n• Added 3 new filters: G3 Green, G3 Amber, Ekt100\n• Optimization of the two G2 filters and HDF filter\n• Added Exif information to photos\n• UI optimization\n• Bug fixes",
+    "zh-CN": "新版本更新内容：\n• 新增G3绿、G3珀、Ekt100三款滤镜\n• G2两款滤、HDF镜优化\n• 照片增加Exif信息\n• UI优化\n• bugfix",
+    "zh-TW": "新版本更新內容：\n• 新增G3綠、G3珀、Ekt100三款濾鏡\n• G2兩款濾鏡、HDF鏡優化\n• 照片增加Exif資訊\n• UI優化\n• bugfix",
+    "ja": "バージョン更新内容：\n• 新しいフィルター3種（G3グリーン、G3アンバー、Ekt100）を追加\n• G2フィルター2種とHDFフィルターを最適化\n• 写真にExif情報を追加\n• UIを最適化\n• バグ修正"
   }
 }
