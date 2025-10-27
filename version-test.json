@@ -2,7 +2,7 @@
   "minimumVersion": "1.9.0",
   "latestVersion": "2.2.0",
   "forceUpdate": false,
-  "changeLog": "New Version Update Details:\n• Flashlight now supports brightness adjustment\n• Fixed a crash issue on iOS 26\n• Other bug fixes",
+  "changeLog": "New Version Updates:\n• Added 3 new filters: G3 Green, G3 Amber, Ekt100\n• Optimization of the two G2 filters and HDF filter\n• Added Exif information to photos\n• UI optimization\n• Bug fixes",
   "changeLogMultiLang": {
     "en": "New Version Updates:\n• Added 3 new filters: G3 Green, G3 Amber, Ekt100\n• Optimization of the two G2 filters and HDF filter\n• Added Exif information to photos\n• UI optimization\n• Bug fixes",
     "zh-CN": "新版本更新内容：\n• 新增G3绿、G3珀、Ekt100三款滤镜\n• G2两款滤、HDF镜优化\n• 照片增加Exif信息\n• UI优化\n• bugfix",
