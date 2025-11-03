@@ -36,6 +36,9 @@ Thank you for using zoracam. We take your privacy seriously. This Privacy Policy
   - Memory cleared immediately after processing, **no copies retained**.
  
 ## 4. Third-Party Services
+### Apple Vision Framework
+- **Apple Vision Framework**: For local image analysis (person/object silhouette detection, background removal, no sensitive facial recognition). All processing is performed exclusively on-device.
+- **Apple App Analytics**: For collecting feature usage statistics and crash reports. (Cannot be linked to personal identity)
 ### Tencent Bugly Crash Reporting Service
 - **Service Provider**: Tencent Cloud Computing (Beijing) Co., Ltd.
 - **Purpose**: Application crash monitoring and performance analysis
