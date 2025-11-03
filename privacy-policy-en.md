@@ -23,19 +23,14 @@ Thank you for using zoracam. We take your privacy seriously. This Privacy Policy
 - **We don't collect your contacts**.
 - **We don't collect your personal identification information**.
 
-## 2. Third-Party Services
-
-- **Apple Vision Framework**: For local image analysis (person/object silhouette detection, background removal, no sensitive facial recognition). All processing is performed exclusively on-device.
-- **Apple App Analytics**: For collecting feature usage statistics and crash reports. (Cannot be linked to personal identity)
-
-## 3. Data Storage and Security
+## 2. Data Storage and Security
 - **Storage Location**: All photo processing and data handling occur locally on your device.
 - **No cloud storage involved**.
 - **Security Measures**:
   - Sandbox mechanism and encryption technology for data protection.
   - Memory cleared immediately after processing, **no copies retained**.
  
-## 4. Third-Party Services
+## 3. Third-Party Services
 ### Apple Vision Framework
 - **Apple Vision Framework**: For local image analysis (person/object silhouette detection, background removal, no sensitive facial recognition). All processing is performed exclusively on-device.
 - **Apple App Analytics**: For collecting feature usage statistics and crash reports. (Cannot be linked to personal identity)
