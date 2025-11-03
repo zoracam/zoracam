@@ -23,14 +23,20 @@ Thank you for using zoracam. We take your privacy seriously. This Privacy Policy
 - **We don't collect your contacts**.
 - **We don't collect your personal identification information**.
 
-## 2. Data Storage and Security
+## 2. Facial Data Processing
+### 2.1 Scope of Data Collection
+- When the facial focus mode is activated, this application temporarily recognizes the contour of facial areas through the device camera and generates geometric coordinate information for positioning the focus area. This process does not involve the collection of any biometric data (such as facial texture, iris patterns, etc.).
+### 2.2 Data Processing
+- All facial coordinate calculations are performed entirely locally on your device. The processing does not require an internet connection and does not rely on any cloud services or third-party SDKs. The data exists only in the temporary memory buffer and its lifespan does not exceed the rendering duration of a single frame.
+
+## 3. Data Storage and Security
 - **Storage Location**: All photo processing and data handling occur locally on your device.
 - **No cloud storage involved**.
 - **Security Measures**:
   - Sandbox mechanism and encryption technology for data protection.
   - Memory cleared immediately after processing, **no copies retained**.
  
-## 3. Third-Party Services
+## 4. Third-Party Services
 ### Apple Vision Framework
 - **Apple Vision Framework**: For local image analysis (person/object silhouette detection, background removal, no sensitive facial recognition). All processing is performed exclusively on-device.
 - **Apple App Analytics**: For collecting feature usage statistics and crash reports. (Cannot be linked to personal identity)
@@ -46,12 +52,12 @@ Thank you for using zoracam. We take your privacy seriously. This Privacy Policy
 - **Privacy Policy**: https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
 - **Data Security**: Encrypted transmission is used, and no personal sensitive information is collected
 
-## 4. Your Rights
+## 5. Your Rights
 According to Personal Information Protection Laws, you have the right to:
 - **Access and Correct**: Contact us via email to modify information.
 - **Delete Data**: Uninstall the app or clear local data through device settings.
 - **Withdraw Consent**: Disable camera/photo library permissions (some features may be limited).
 
-## 5. Contact Us
+## 6. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 - Email: zoracam@hotmail.com
