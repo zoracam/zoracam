@@ -1,20 +1,20 @@
 {
-  "version": 17,
+  "version": 18,
   "products": {
     "monthly": {
       "visible": true,
       "usePromotionPrice": true,
-      "validUntil": "2025-12-15 10:00:00"
+      "validUntil": "2026-01-06 10:00:00"
     },
     "yearly": {
       "visible": true,
       "usePromotionPrice": true,
-      "validUntil": "2025-12-15 10:00:00"
+      "validUntil": "2026-01-06 10:00:00"
     },
     "lifetime": {
       "visible": true,
       "usePromotionPrice": true,
-      "validUntil": "2025-12-15 10:00:00"
+      "validUntil": "2026-01-06 10:00:00"
     }
   },
   "ui": {
@@ -22,10 +22,10 @@
     "showRecommendedTags": true,
     "bannerConfig": {
       "title": {
-        "zh-Hans": "🎉金秋献礼，限时特惠中🎉",
-        "zh-Hant": "🎉​​金秋獻禮，限時特惠中​​🎉",
-        "en": "🎉Golden Autumn Gift, Limited-Time Offer​​🎉",
-        "ja": "🎉秋の贈り物、期間限定セール中​🎉"
+        "zh-Hans": "🎉促销进行中🎉",
+        "zh-Hant": "🎉​​限時特惠中​​🎉",
+        "en": "🎉Limited-Time Offer​​🎉",
+        "ja": "🎉期間限定セール中​🎉"
       },
       "subtitle": {
         "zh-Hans": "订阅用户免费试用7天，之后按优惠价扣费",
@@ -33,7 +33,7 @@
         "en": "7-day free trial for subscribers, then charged at promotional price",
         "ja": "購読者は7日間無料トライアル、その後プロモーション価格で課金"
       },
-      "validUntil": "2025-12-15 10:00:00"
+      "validUntil": "2026-01-06 10:00:00"
     }
   },
   "promotion": {
@@ -42,21 +42,21 @@
       {
         "pageId": "1",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2025-12-15 10:00:00",
+        "validUntil": "2026-01-06 10:00:00",
         "visible": true,
         "priority": 1
       },
       {
         "pageId": "2",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2025-12-15 10:00:00",
+        "validUntil": "2026-01-06 10:00:00",
         "visible": true,
         "priority": 2
       },
       {
         "pageId": "3",
         "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2025-12-15 10:00:00",
+        "validUntil": "2026-01-06 10:00:00",
         "visible": true,
         "priority": 3
       }
