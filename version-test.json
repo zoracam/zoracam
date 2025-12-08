@@ -2,11 +2,11 @@
   "minimumVersion": "1.9.0",
   "latestVersion": "2.3.0",
   "forceUpdate": false,
-  "changeLog": "New Version Updates:\n• Autumn Sale: Limited Time Offer!​\n• Added 3 new filters: G3 Green, G3 Amber, Ekt100\n• Optimization of the two G2 filters and HDF filter\n• Added Exif information to photos\n• UI optimization\n• Supports importing photos in HEIF/HEIC format\n• iOS26 bug fixes",
+  "changeLog": "New version updates:\n• Added 4 new filters\n• Livephoto shooting support\n• Multiple exposure support\n• Real-time preview support\n• Support lock screen shortcut icons\n• UI optimization",
   "changeLogMultiLang": {
-    "en": "New version updates:\n• Added 4 new filters\n• Livephoto shooting support\n• Multiple exposure support\n• Real-time preview support\n• UI optimization",
-    "zh-CN": "新版本更新内容:\n• 新增4款滤镜\n• 支持livephoto拍摄\n• 支持多重曝光\n• 支持实时预览\n• UI优化",
-    "zh-TW": "新版本更新內容:\n• 新增4款濾鏡\n• 支援livephoto拍攝\n• 支援多重曝光\n• 支援即時預覽\n• UI優化",
-    "ja": "新バージョン更新内容:\n• 新しいフィルター4種類を追加\n• Livephoto撮影をサポート\n• 多重露光をサポート\n• リアルタイムプレビューをサポート\n• UI最適化"
+    "en": "New version updates:\n• Added 4 new filters\n• Livephoto shooting support\n• Multiple exposure support\n• Real-time preview support\n• Support lock screen shortcut icons\n• UI optimization",
+    "zh-CN": "新版本更新内容:\n• 新增4款滤镜\n• 支持livephoto拍摄\n• 支持多重曝光\n• 支持实时预览\n• 支持锁屏快捷图标\n• UI优化",
+    "zh-TW": "新版本更新內容:\n• 新增4款濾鏡\n• 支援livephoto拍攝\n• 支援多重曝光\n• 支援即時預覽\n• 支援鎖屏快捷圖示\n• UI優化",
+    "ja": "新バージョン更新内容:\n• 新しいフィルター4種類を追加\n• Livephoto撮影をサポート\n• 多重露光をサポート\n• リアルタイムプレビューをサポート\n• ロック画面ショートカットアイコンをサポート\n• UI最適化"
   }
 }
