@@ -10,6 +10,7 @@ Thank you for using zoracam. We take your privacy seriously. This Privacy Policy
 ### 1.1 Required Permissions
 - Camera Access: For taking photos. All content and data are **processed locally only, never uploaded to servers**.
 - Photo Library Access: For saving photos to your gallery. **Local processing only, no sync or backup**.
+- Microphone Access: For capturing ambient audio when Live Photo mode is enabled. All audio is processed locally on your device and is included only in the Live Photo you choose to save. The app does not upload or transmit audio to any servers.
 - Device Information: Basic information including device model and OS version.
 
 ### 1.2 Non-Personal Information
@@ -20,6 +21,7 @@ Thank you for using zoracam. We take your privacy seriously. This Privacy Policy
 - **We don't upload your photos or videos**.
 - **We don't analyze or collect facial data**.
 - **We don't collect your location information**.
+- **We don't record audio in the background**.
 - **We don't collect your contacts**.
 - **We don't collect your personal identification information**.
 
@@ -28,9 +30,11 @@ Thank you for using zoracam. We take your privacy seriously. This Privacy Policy
 - When the facial focus mode is activated, this application temporarily recognizes the contour of facial areas through the device camera and generates geometric coordinate information for positioning the focus area. This process does not involve the collection of any biometric data (such as facial texture, iris patterns, etc.).
 ### 2.2 Data Processing
 - All facial coordinate calculations are performed entirely locally on your device. The processing does not require an internet connection and does not rely on any cloud services or third-party SDKs. The data exists only in the temporary memory buffer and its lifespan does not exceed the rendering duration of a single frame.
+### 2.3 Audio Data Processing
+- When Live Photo mode is active, the application captures a short audio clip synchronized with the photo. All audio processing occurs entirely on your device, does not require an internet connection, and is not transmitted to any server. The audio exists only in a temporary memory buffer during capture and, if you save the Live Photo, as part of the media file stored on your device.
 
 ## 3. Data Storage and Security
-- **Storage Location**: All photo processing and data handling occur locally on your device.
+- **Storage Location**: All photo processing and data handling occur locally on your device. Audio associated with Live Photos is stored locally on your device within the media file. The app does not perform any cloud backup or synchronization. If you enable iCloud Photos at the system level, Apple may sync your media according to Apple's policies; this is outside of our control.
 - **No cloud storage involved**.
 - **Security Measures**:
   - Sandbox mechanism and encryption technology for data protection.
