@@ -1,12 +1,12 @@
 {
   "minimumVersion": "2.1.0",
-  "latestVersion": "2.3.1",
+  "latestVersion": "2.4.0",
   "forceUpdate": false,
-  "changeLog": "New version updates:\n• Added 4 new filters\n• Livephoto shooting support\n• Multiple exposure support\n• Real-time preview support\n• Support lock screen shortcut icons\n• UI optimization",
+  "changeLog": "What's New:\n• Support for border settings\n• Support for date watermark\n• UI improvements and bug fixes",
   "changeLogMultiLang": {
-    "en": "New version updates:\n• Added 4 new filters\n• Livephoto shooting support\n• Multiple exposure support\n• Real-time preview support\n• Support lock screen shortcut icons\n• UI optimization",
-    "zh-CN": "新版本更新内容:\n• 新增4款滤镜\n• 支持livephoto拍摄\n• 支持多重曝光\n• 支持实时预览\n• 支持锁屏快捷图标\n• UI优化",
-    "zh-TW": "新版本更新內容:\n• 新增4款濾鏡\n• 支援livephoto拍攝\n• 支援多重曝光\n• 支援即時預覽\n• 支援鎖屏快捷圖示\n• UI優化",
-    "ja": "新バージョン更新内容:\n• 新しいフィルター4種類を追加\n• Livephoto撮影をサポート\n• 多重露光をサポート\n• リアルタイムプレビューをサポート\n• ロック画面ショートカットアイコンをサポート\n• UI最適化"
+    "en": "What's New:\n• Support for border settings\n• Support for date watermark\n• UI improvements and bug fixes",
+    "zh-CN": "新版本更新内容:\n• 支持边框设置\n• 支持日期水印\n• UI优化及bug修复",
+    "zh-TW": "新版本更新內容:\n• 支援邊框設定\n• 支援日期浮水印\n• UI 優化及錯誤修正",
+    "ja": "新しいバージョンの更新内容:\n• 枠線設定に対応\n• 日付ウォーターマークに対応\n• UIの最適化およびバグ修正"
   }
 }
