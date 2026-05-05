@@ -1,12 +1,12 @@
 {
   "minimumVersion": "2.1.0",
-  "latestVersion": "2.4.0",
+  "latestVersion": "2.4.4",
   "forceUpdate": false,
-  "changeLog": "What's New:\n• Support for border settings\n• Support for date watermark\n• UI improvements and bug fixes",
+  "changeLog": "What's New:\n• Added 120 borders\n• Added Porta400 film filter\n• Bug fixes",
   "changeLogMultiLang": {
-    "en": "What's New:\n• Support for border settings\n• Support for date watermark\n• UI improvements and bug fixes",
-    "zh-CN": "新版本更新内容:\n• 支持边框设置\n• 支持日期水印\n• UI优化及bug修复",
-    "zh-TW": "新版本更新內容:\n• 支援邊框設定\n• 支援日期浮水印\n• UI 優化及錯誤修正",
-    "ja": "新しいバージョンの更新内容:\n• 枠線設定に対応\n• 日付ウォーターマークに対応\n• UIの最適化およびバグ修正"
+    "en": "What's New:\n• Added 120 borders\n• Added Porta400 film filter\n• Bug fixes",
+    "zh-CN": "新版本更新内容:\n• 新增120边框\n• 新增Porta400胶片滤镜\n• Bug fixes",
+    "zh-TW": "新版本更新內容:\n• 新增120邊框\n• 新增Porta400膠片濾鏡\n• 錯誤修復",
+    "ja": "\n• 120フレームを追加\n• Porta400フィルムフィルターを追加\n• バグ修正"
   }
 }
