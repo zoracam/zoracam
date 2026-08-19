@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "products": {
+    "monthly":  { "visible": true },
+    "yearly":   { "visible": true },
+    "lifetime": { "visible": false }
+  },
+  "ui": {
+    "showPromotionBanner": false,
+    "showRecommendedTags": true,
+    "bannerConfig": { "title": {}, "subtitle": {}, "validUntil": "" }
+  },
+  "promotion": { "showInSettings": false, "activities": [] }
+}
