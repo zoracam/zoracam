@@ -1,12 +1,12 @@
 {
   "minimumVersion": "2.1.0",
-  "latestVersion": "2.4.5",
+  "latestVersion": "2.5.0",
   "forceUpdate": false,
-  "changeLog": "What's New:\n• Added 8592 film filter\n• Added 5203 film filter\n• Bug fixes",
+  "changeLog": "What's New:\n• Added multiple new filters\n• Enhanced editing features\n• Filter refine & Bug fixes",
   "changeLogMultiLang": {
-    "en": "What's New:\n• Added 8592 film filter\n• Added 5203 film filter\n• Bug fixes",
-    "zh-CN": "更新内容:\n• 新增8592胶片滤镜\n• 新增5203胶片滤镜\n• Bug fixes",
-    "zh-TW": "更新內容:\n• 新增120邊框\n• 新增Porta400膠片濾鏡\n• 錯誤修復",
-    "ja": "アップデート内容:\n• 8592フィルムフィルターを追加\n• 5203フィルムフィルターを追加\n• バグ修正"
+    "en": "What's New:\n• Added multiple new filters\n• Enhanced editing features\n• Filter refine & Bug fixes",
+    "zh-CN": "更新内容:\n• 新增多款滤镜\n• 编辑功能强化 \n• 滤镜refine & Bug fixes",
+    "zh-TW": "更新內容:\n• 新增多款濾鏡\n• 編輯功能強化\n• 濾鏡refine & 錯誤修復",
+    "ja": "アップデート内容:\n• 複数の新しいフィルターを追加\n• 編集機能を強化\n• フィルターのrefine & バグ修正"
   }
 }
