@@ -8,7 +8,7 @@
       "visible": true
     },
     "lifetime": {
-      "visible": false
+      "visible": true
     }
   },
   "ui": {
@@ -22,28 +22,6 @@
   },
   "promotion": {
     "showInSettings": false,
-    "activities": [
-      {
-        "pageId": "1",
-        "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2026-01-06 10:00:00",
-        "visible": true,
-        "priority": 1
-      },
-      {
-        "pageId": "2",
-        "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2026-01-06 10:00:00",
-        "visible": true,
-        "priority": 2
-      },
-      {
-        "pageId": "3",
-        "supportedLanguages": ["zh-Hans", "zh-Hant"],
-        "validUntil": "2026-01-06 10:00:00",
-        "visible": true,
-        "priority": 3
-      }
-    ]
+    "activities": []
   }
 }
