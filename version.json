@@ -1,12 +1,12 @@
 {
   "minimumVersion": "2.1.0",
-  "latestVersion": "2.5.0",
+  "latestVersion": "2.5.1",
   "forceUpdate": false,
-  "changeLog": "What's New:\n• Added multiple new filters\n• Enhanced editing features\n• Filter refine & Bug fixes",
+  "changeLog": "What's New:\n• Adapted for iPhone macro lenses, now supports macro mode shooting",
   "changeLogMultiLang": {
-    "en": "What's New:\n• Added multiple new filters\n• Enhanced editing features\n• Filter refine & Bug fixes",
-    "zh-CN": "更新内容:\n• 新增多款滤镜\n• 编辑功能强化 \n• 滤镜refine & Bug fixes",
-    "zh-TW": "更新內容:\n• 新增多款濾鏡\n• 編輯功能強化\n• 濾鏡refine & 錯誤修復",
-    "ja": "アップデート内容:\n• 複数の新しいフィルターを追加\n• 編集機能を強化\n• フィルターのrefine & バグ修正"
+    "en": "What's New:\n• Adapted for iPhone macro lenses, now supports macro mode shooting",
+    "zh-CN": "更新内容:\n• 适配 iPhone 微距镜头，支持微距模式拍摄",
+    "zh-TW": "更新內容:\n• 適配 iPhone 微距鏡頭，支援微距模式拍攝",
+    "ja": "アップデート内容:\n• iPhoneのマクロレンズに対応し、マクロモードでの撮影が可能になりました"
   }
 }
